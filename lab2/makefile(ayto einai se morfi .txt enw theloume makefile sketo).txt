@@ -1,0 +1,7 @@
+all: child parent
+
+child: child.c gcc child.c -o child.o
+
+parent: parent.c gcc parent.c -o parent
+
+clean: rm $(TARGETS)
