@@ -1,1 +1,1 @@
-# os-ntua-tsanakas
+# Operationg Systems course lab exercises
